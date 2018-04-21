@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Ashleigh\u318046\ConsoleApp1\CodingameHorseRacing\CodingameHorseRacing\bin\Debug\CodingameHorseRacing.exe.config
+C:\Users\Owner\Desktop\Ashleigh\u318046\ConsoleApp1\CodingameHorseRacing\CodingameHorseRacing\bin\Debug\CodingameHorseRacing.exe
+C:\Users\Owner\Desktop\Ashleigh\u318046\ConsoleApp1\CodingameHorseRacing\CodingameHorseRacing\bin\Debug\CodingameHorseRacing.pdb
+C:\Users\Owner\Desktop\Ashleigh\u318046\ConsoleApp1\CodingameHorseRacing\CodingameHorseRacing\obj\Debug\CodingameHorseRacing.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Ashleigh\u318046\ConsoleApp1\CodingameHorseRacing\CodingameHorseRacing\obj\Debug\CodingameHorseRacing.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Ashleigh\u318046\ConsoleApp1\CodingameHorseRacing\CodingameHorseRacing\obj\Debug\CodingameHorseRacing.exe
+C:\Users\Owner\Desktop\Ashleigh\u318046\ConsoleApp1\CodingameHorseRacing\CodingameHorseRacing\obj\Debug\CodingameHorseRacing.pdb
